@@ -144,6 +144,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+venv
+.pytest_cache
 build/
 develop-eggs/
 dist/
